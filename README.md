@@ -16,5 +16,5 @@ This project focuses on cleaning a retail dataset using **SQL**. The goal was to
 A cleaned dataset that supports deeper **business analysis** and **decision-making**.  
 
 ---
-✨ Feel free to explore, fork, or share feedback!  
+
 
