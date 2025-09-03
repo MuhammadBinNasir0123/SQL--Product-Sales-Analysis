@@ -1,11 +1,11 @@
-# 📊 SQL Product Sales Analysis  
+#  SQL Product Sales Analysis  
 
 This project demonstrates how SQL can be used to analyze **product sales performance** across multiple dimensions.  
 Each SQL file represents a distinct business query, enabling modular, question-driven analysis.  
 
 ---
 
-## 🔑 Key Analysis Performed  
+##  Key Analysis Performed  
 
 - **Monthly Sales Performance** → Track revenue trends over time  
 - **Revenue by Customer Type** → Compare retail vs wholesale contributions  
@@ -16,7 +16,7 @@ Each SQL file represents a distinct business query, enabling modular, question-d
 
 ---
 
-## 📂 Tech Stack  
+##  Tech Stack  
 
 - **SQL (MySQL Workbench)** → Querying, aggregation, joins, grouping  
 - **Excel (.csv/.xlsx)** → Input dataset for analysis  
@@ -24,7 +24,7 @@ Each SQL file represents a distinct business query, enabling modular, question-d
 
 ---
 
-## 🚀 Outcome  
+##  Outcome  
 
 - Delivered **granular insights** across product, region, and customer segments  
 - Built a **reusable SQL query library** for business reporting  
@@ -32,7 +32,7 @@ Each SQL file represents a distinct business query, enabling modular, question-d
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```bash
 ├── LICENSE                          # License file  
