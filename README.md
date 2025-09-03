@@ -40,7 +40,7 @@ Each SQL file represents a distinct business query, enabling modular, question-d
 ├── Product-Sales-Region.csv.xlsx    # Input dataset  
 ├── README.md                        # Project documentation  
 ├── Revenue By Customer Type.sql     # Query for customer type revenue split  
-├── Revenue By Product Type & Sales.sql # Query for product type analysis  
+├── Revenue By Product Type and Sales.sql # Query for product type analysis  
 ├── Revenue By Region.sql            # Query for regional revenue breakdown  
 ├── Sales Data.sql                   # Base dataset import / cleaning  
 ├── Total Product Sales.sql          # Query for total sales by product  
