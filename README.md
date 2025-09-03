@@ -35,13 +35,13 @@ Each SQL file represents a distinct business query, enabling modular, question-d
 ##  Project Structure  
 
 ```bash
-├── LICENSE                          # License file  
-├── Monthly Sales Performance.sql    # Query for monthly sales trends  
-├── Product-Sales-Region.csv.xlsx    # Input dataset  
-├── README.md                        # Project documentation  
-├── Revenue By Customer Type.sql     # Query for customer type revenue split  
+├── LICENSE                               # License file  
+├── Monthly Sales Performance.sql         # Query for monthly sales trends  
+├── Product-Sales-Region.csv.xlsx         # Input dataset  
+├── README.md                             # Project documentation  
+├── Revenue By Customer Type.sql          # Query for customer type revenue split  
 ├── Revenue By Product Type and Sales.sql # Query for product type analysis  
-├── Revenue By Region.sql            # Query for regional revenue breakdown  
-├── Sales Data.sql                   # Base dataset import / cleaning  
-├── Total Product Sales.sql          # Query for total sales by product  
-├── Total Revenue.sql                # Query for consolidated revenue  
+├── Revenue By Region.sql                 # Query for regional revenue breakdown  
+├── Sales Data.sql                        # Base dataset import / cleaning  
+├── Total Product Sales.sql               # Query for total sales by product  
+├── Total Revenue.sql                     # Query for consolidated revenue  
